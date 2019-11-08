@@ -10,6 +10,10 @@ import android.widget.TextView;
 import com.example.yanxu.piechartview.R;
 import com.example.yanxu.piechartview.view.PieChartView;
 
+/***
+ * 首页
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private PieChartView mPieChartView;
